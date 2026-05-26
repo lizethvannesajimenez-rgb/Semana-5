@@ -1,0 +1,13 @@
+ http://localhost:3000
+servidor recibe una petición en la raíz 
+del proyecto (la ruta principal /).
+
+http://localhost:3000/saludo
+El servidor procesa una petición
+para un recurso estático fijo llamado
+
+
+http://localhost:3000/mensaje/juan
+(por ejemplo, buscar a Juan en una base de
+datos)y responde con un mensaje personalizado
+en pantalla.
