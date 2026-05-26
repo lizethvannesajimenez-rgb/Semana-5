@@ -1,0 +1,20 @@
+Las APIs son herramientas
+que ayudan a que las aplicaciones y los 
+sistemas de diferentes personas
+se comuniquen entre sí de forma automática. 
+En una comunidad, esto sirve para que todos 
+los reportes o quejas que envían los vecinos
+lleguen a un solo lugar centralizado, 
+en vez de perderse en miles de chats. 
+Al usar una API, la información se 
+organiza solita por categorías, como la fecha,
+la hora y el lugar exacto del problema.
+Esto hace que sea mucho más fácil ver en un mapa 
+o en una lista qué es lo que urge solucionar 
+en el barrio. Además, cuando ocurre una emergencia,
+estas herramientas permiten enviar alertas
+masivas y automáticas a los teléfonos de
+todos al mismo tiempo. En resumen, ayudan
+a pasar del desorden de las redes sociales 
+a un sistema vecinal limpio, 
+rápido y donde todos están bien informados.
